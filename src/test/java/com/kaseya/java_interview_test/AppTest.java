@@ -1,4 +1,4 @@
-package com.kaseya.java_interview_test.java_interview_test;
+package com.kaseya.java_interview_test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
